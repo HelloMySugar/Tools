@@ -5,5 +5,5 @@
 如果需要Swift版，请点击查看https://github.com/HelloMySugar/ToolsSwift
 
 ### English:
-Usually the project accumulation of writing tools, easy to use,
-if you want Swift version, please click https://github.com/HelloMySugar/ToolsSwift
+Project accumulated utility tools, easy to use,  
+if you want Swift version, please click here https://github.com/HelloMySugar/ToolsSwift
